@@ -1,6 +1,7 @@
-pagi pagi pagi
-perkenalkan nama saya Nabil Arib Nugraha aku berasal dari DKI Jakarta sekarang saya berkuliah di Universitas Jendderal Soedirman jurusan Perencanaan Sumberdaya Lahan Fakultas Pertanian.
+
 # Hai, saya Nabil Arib Nugraha 👋
+saya berasal dari DKI Jakarta, kota Jakarta Utara 
+saya lahir 5 November 2005 di Cilacap
 
 Saya seorang ** mahasiswa ** yang tertarik pada: **[mis. web dev, data science, desain, dsb]**.
 
@@ -8,11 +9,15 @@ Saya seorang ** mahasiswa ** yang tertarik pada: **[mis. web dev, data science, 
 - 🔭 Sedang mengerjakan: **[membuat domain di github]**
 - 🌱 Sedang belajar: **[web github]**
 - 💬 Suka diskusi tentang: **[bebas]**
-- 📫 Hubungi saya: **email@contoh.com** / LinkedIn: [linkedin.com/in/nama](https://linkedin.com)
-- ⚡ Fakta menyenangkan: **[hobi badminton]**
+- 📫 Hubungi saya: **email@nabilaribnugraha@gmail.com** 
+- ⚡ Fakta menyenangkan: **[saya suka mie ayam]**
 
 ## Skill
 - entahh
+- bisa tank
+- supporrt PUBG
+- jadi bahan gabut
+  
 
 
 
